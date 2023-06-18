@@ -7,5 +7,7 @@ public class G01_gitHub_ilkDers {
 
         System.out.println("git add-commit-push");
 
+        System.out.println("merhaba ben wise");
+
     }
 }
